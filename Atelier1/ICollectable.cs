@@ -1,6 +1,5 @@
 namespace Atelier1;
 
-public interface ICollectable
-{
+public interface ICollectable {
     
 }
